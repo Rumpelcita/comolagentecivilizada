@@ -1,0 +1,181 @@
+::StoryTitle
+Like civilized people
+
+::StoryIncludes
+css.tw2
+index-es.tw2
+
+::Title-en <680,313>
+<h1>LIKE CIVILIZED PEOPLE</h1>
+
+### Florencia Rumpel Rodriguez
+
+[[Begin->Empezar-en]]
+
+::Empezar-en <684,439>
+<h3>Trigger Warning</h3>
+
+Everything you're about to read happened to me, or to a friend, or to a friend of a friend, to a neighbor, to an ally. These are things that really happened.
+
+These are stories about street harassment, sexual assault, clandestine abortions and misogyny, heavy issues that matter to all of us.
+
+### Do not play this at work or in front of little kids.
+
+If you feel comfortable reading about these issues, [[go on ahead->dale para adelante-en]].
+
+::dale para adelante-en <683,590>
+You're returning from the pharmacy, you're carrying pads, tampons and acne soap. This is the first time you're buying pads and tampons that aren't for your mum.
+
+It's summer, it's hot, you're wearing a swim suit underneath your summer dress, so you can get into the pool once you're back home.
+
+(live: 4s)[##"BE CAREFUL DOLL, YOU'RE GOING TO MELT!"
+Shouts a stranger.
+(stop:)]
+(live:8s)[##WHISTLE WHISTLE
+Goes another one.
+(stop:)]
+
+(live:12s)[You're confused and [[hurry back home->apurás el paso para llegar a casa-en]].(stop:)]
+
+::apurás el paso para llegar a casa-en <683,739>
+You tell what happened to your mum and she says:
+
+(live:3s)["If you don't want people calling you stuff, you better dress like a nun."(stop:)]
+
+(live:8s)[You don't feel like going to the pool anymore. [[You go to take a nap->Te vas a dormir la siesta-en]].(stop:)]
+
+::Te vas a dormir la siesta-en <682,890>
+Summer has been over for a while and classes have begun. You're at the school's gym watching a video about boys and girls reaching puberty.
+
+"Adolescent comes from *adolecer*, suffering in Spanish" Is a phrase that you will hear until you have grown up and finish with school.
+
+You feel as if the girls from the video lived in a parallel universe, you can't see their pimples, their menstrual pains—the ones that tear you apart—don't show. You see the bra that's itching and feeling tight either.
+
+Once the video is over girls get tampons and boys get condoms. You try to take a closer look at what the boys are carrying, you're wondering if you will get some of those too.(click-replace:"of those")[condoms], but no one offers you anything and you get pushed around. [[You leave the gym->salís del auditorio-en]].
+
+::salís del auditorio-en <681,1016>
+Summer is back, it's raining. You're rushing to the hospital with your parents in their car, because someone in your family tried to have an abortion and it turned out wrong. She's 16.
+
+The doctors told her that if she rests, the baby will be saved.
+(click-replace:"baby")[fetus]
+
+"But she doesn't want to." you think while you doodle on the car's window.
+
+After a while, [[you fall asleep->te quedás dormida-en]].
+
+::te quedás dormida-en <684,1143>
+Years go by and you're coming back from school with a friend.
+
+A stranger screams at you.
+(live:2s)[##"Can I suck your pussy?"]
+
+You could [[scream back at him->responder a los gritos-en]], but maybe it's better to [[walk faster->apurar el paso-en]].
+
+::responder a los gritos-en <684,1295>
+"GO TO HELL, YOU SON OF A BITCH!"
+
+You scream the first thing that comes to mind, as best as you can. You look to your friend for support, but she stares at you uncomfortably.
+
+The stranger either left or didn't open his mouth again, you don't dare to look.
+
+[[You keep walking in silence->paraguas-en]]
+
+::apurar el paso-en <834,1295>
+Neither of you dares to do anything, you try to reach an avenue as soon as possible.
+
+Eventually you bump into some neighbors and the stranger leaves you alone. Your neighbors don't say anything, neither do you and you [[keep walking->siguen caminando->paraguas-en]].
+
+::paraguas-en <685,1446>
+You're in your last year of high school. It's raining buckets, but you aren't worried because you have a good umbrella with you.
+
+You're listening to music and in the mid of *Smoke on the Water* chorus you feel that someone is grabbing you from behind, just like your boyfriend does, but you know this isn't your boyfriend, you can feel it in your bones.
+
+The hand of the stranger (click-replace:"stranger")[jerk] (click-replace:"jerk")[harasser]tries to grab your pussy, but he stumbles with the pants of your uniform and doesn't get too far.
+
+You turn around and see someone with a hoodie who smiles and gets his mouth closer to yours. You realize that he's trying to kiss you, you close your eyes freightened and pull back, you open them back.
+
+You see the face of this guy, you look at your umbrella. You can [[react->reaccionar-en]] or [[stay put until he goes away->quedarte quieta hasta que se vaya-en]].
+
+::reaccionar-en <685,1596>
+You strike him with your umbrella, it hits him near his eye. You press the umbrella harder against this guy until you send him packing.
+
+You shout at him, but it's raining so hard that your shouting gets muffled.
+
+You're soaked, the umbrella is broken, your headphones are missing. [[You walk towards the school->Caminás hacia la escuela-en]].
+
+::quedarte quieta hasta que se vaya-en <835,1596>
+The stranger lets you go, he leaves.
+
+You're soaked, the umbrella is fine, your headphones are missing. [[You walk towards the school->Caminás hacia la escuela-en]].
+
+::Caminás hacia la escuela-en <685,1746>
+Once you enter the school, soaked to the bone, you listen to a couple of girls telling the headmistress about a stranger who groped them. The same one who groped you.
+
+You can tell the authorities about what happened, you can remain silent, but whether you report him or not, you will never know what happened to the stranger that groped you, who harassed you to snatch some headphones.
+I know, because this is my story.
+
+If you [[talk->laburo-en]] all of your classmates will know, they will mock you, they will ask *if you got raped*, a teacher will ask in class, in front of everyone, almost screaming, *if you're okay after what happened*. But at least you get to go home for the day and change into some dry clothes.
+
+If you [[stay silent->laburo-en]] you will look like an idiot who doesn't know how to use an umbrella. No one will ever know what happened to you.
+
+::laburo-en <684,1896>
+You're not an adolescent anymore, you're a grown up but not by much and you have a job. It's hard to sustain because your boss screams at you daily. Today he arrived and told you:
+
+(live:6s)[SINCE YOU'RE A WOMAN, ANNOY THIS CLIENT UNTIL HE TESTS WHAT YOU DID.(stop:)]
+
+(live:12s)[BECAUSE YOU KNOW HOW WOMEN ARE A PAIN IN THE ASS.(stop:)]
+
+(live:18s)[He never stopped saying this through the whole day. You got back home in tears and told a friend about it.
+
+She told you that you were not alone and asked you to go to a march with her. [[You decided to quit and start protesting->decidiste empezar a marchar-en]].(stop:)]
+
+::decidiste empezar a marchar-en <684,2045>
+In one of the protests, the one for abortion rights, there's a woman singing. She never stops singing or encouraging people. She keeps holding up even after everyone else left, when she sings she looks gorgeous and unstoppable.
+
+A couple of months later she's one the news because she has been murdered, she was Diana Sacayan.
+
+You can [step aside from activism->alejar]] or [[keep protesting->marcha-en]].
+
+::alejar-en <684,2196>
+You fear for your safety and you're tired of feeling like you're herding cats. Maybe somebody else who is braver or more reckless can change things.
+
+Besides, you're exhausted of arguing with your friends and family about the shitty stuff that happens to you daily. It seems as if they don't believe you or can't understand how much these things hurt.
+
+You're also scared of ending up friendless or being seen as a crazy.
+
+You can always go and [[fight back->lucha-en]], you know that your allies will receive you with their arms open.
+
+::marcha-en <833,2196>
+While you're protesting and singing you notice that some fellow activists are spraying the walls.
+
+You're unsure whether to [[make some graffiti as well to release some tension->pintadas-en]] or [[fall back a bit->alejar-en]] because this makes you uncomfortable.
+
+::lucha-en <689,2379>
+You hope that someday things will change for the better.
+
+You feel that no one listens to you unless you make a mess and that when you finally do, you get lied to and told that you would get support if only "you behaved like civilized people".
+
+You feel that this story doesn't even scratch the surface of all the terrible things that happen to you daily for being a woman.
+
+Very few people seem to understand that we just want to be treated like human beings, but you're not alone. I understand.
+
+I believe that if we keep fighting for our rights, (link-repeat:"like those who got the right to vote did before us")[(open-url:"http://www.bbc.com/news/magazine-34425615")(replace: "[object Window]")[]], the world will be a better place than when we started.
+
+(link:"THE END")[(reload:)]
+
+::pintadas-en <862,2378>
+You keep protesting and maybe you end up spraying some walls, maybe you end up marching while showing your tits. Suddenly, (text-style:"blur")[You feel that your eyes are burning.] They're throwing tear gas.
+
+You can heed the advice of your fellow activists and[[begin wearing a kerchief->lucha-en]] soaked in vinegar over your mouth or you can [[stop marching->alejar-en]] to feel safer.
+
+::Header [header] <824,313>
+<small>{(if: (saved-games:) contains "Slot A")[(link: "· Load ")[(load-game:"Slot A")]]} {(link:"· Save")[(if:(save-game:"Slot A"))[· Saved](else: )[Error]]}</small>
+<hr>
+
+::Language <680,187.5>
+<div class="lang-select">
+[[English->Title-en]] | [[Español->Title]]
+</div>
+
+::Twee2Settings [twee2]
+@story_start_name = 'Language'

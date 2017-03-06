@@ -1,0 +1,164 @@
+::StoryTitle
+Como la gente civilizada
+
+
+::Title <680,313>
+<h1>COMO LA GENTE CIVILIZADA</h1>
+
+### Florencia Rumpel Rodriguez
+
+[[Empezar]]
+
+::Empezar <684,439>
+Todas las cosas que vas a leer me pasaron a mí o a una amiga, a la amiga de una amiga, a una vecina, a una compañera. Son cosas que pasaron de verdad.
+
+Son historias sobre acoso callejero, abuso sexual, aborto clandestino y misoginia, temas fuertes que nos tocan a todos.
+
+### No lo juegues en el trabajo o adelante de nenes chiquitos.
+
+Si te sentís cómodo leyendo de estos temas, [[dale para adelante]].
+
+::dale para adelante <683,589>
+Estás volviendo de la farmacia, traés toallitas, tampones y un jabón para el acné. Es la primera vez que vas a comprar toallitas y tampones que no son para tu mamá.
+
+Es verano, hace calor, abajo del solero tenés la malla puesta para meterte en la pileta cuando vuelvas a casa.
+
+(live: 4s)[##"¡CON ESTE CALOR TE VAS A DERRETIR, BOMBÓN!"
+Grita un desconocido.
+(stop:)]
+(live:8s)[##"FIUUUU FIIIUUU"
+Silba otro.
+(stop:)]
+
+(live:12s)[Estás confundida y [[apurás el paso para llegar a casa]].(stop:)]
+
+::apurás el paso para llegar a casa <683,739>
+Le contás lo que pasó a tu mamá y ella te dice:
+
+(live:3s)["Si no querés que te digan cosas, vestite de monja."(stop:)]
+
+(live:8s)[Ya no tenés ganas de ir a la pileta. [[Te vas a dormir la siesta]].(stop:)]
+
+::Te vas a dormir la siesta <683,889>
+Hace rato se terminó el verano y empezaron las clases. Estás en el auditorio de la escuela viendo un video de nenes y nenas llegando a la adolescencia.
+
+"Adolescente viene de adolecer, padecer" Te van a repetir hasta que seas grande y termines la escuela.
+
+Es como si las chicas del video estuviesen en una realidad paralela, no ves sus granos, no se les nota el dolor menstrual que a vos te parte al medio, ni el corpiño que te pica y aprieta.
+
+El video termina y reparten tampones para las nenas y preservativos para los nenes. Tratás de ver más de cerca el paquetito de los nenes, ver si a vos también te van a dar de esos(click-replace:"de esos")[forros], pero nadie te ofrece nada y te empuja el mar de gente. [[Salís del auditorio->salís del auditorio]].
+
+::salís del auditorio <681,1016>
+Llegó el verano de nuevo, llueve, estás en el auto con tus viejos yendo al hospital, porque una pariente tuya quiso abortar y salió mal. Tiene 16.
+
+Los doctores le dijeron que si hace reposo, el bebé se salva.
+(click-replace:"bebé")[feto]
+
+"Pero ella no quiere." pensás mientras haces dibujos con el dedo en la ventanilla del auto.
+
+Después de un rato, [[te quedás dormida]].
+
+::te quedás dormida <684,1145>
+Pasan los años y estás volviendo de la escuela con una amiga.
+
+(live:2s)[##"¿Les puedo chupar la conchita?"]
+Grita un desconocido.
+
+Le podrías [[responder a los gritos]] aunque por ahí es mejor [[apurar el paso]].
+
+::responder a los gritos <685,1295>
+"¡ANDATE A LA CONCHA DE TU MADRE, PEDAZO DE FORRO!"
+
+Gritás lo primero que te sale, como te sale. Buscás apoyo en tu amiga, pero te mira incómoda.
+
+El desconocido se fue o se quedó callado, no te animás a mirar.
+
+[[Seguís caminando en silencio->paraguas]]
+
+::apurar el paso <834,1295>
+Ninguna de las dos se anima a hacer nada, tratan de ir para la avenida lo más rápido posible.
+
+Eventualmente se cruzan con otros vecinos del barrio y el tipo las deja solas. Los vecinos no dicen nada, ustedes dos tampoco y [[siguen caminando->paraguas]].
+
+::paraguas <685,1446>
+Estás en el último año del secundario. Llueve muchísimo, pero estás masomenos tranquila porque tenés un paraguas que zafa.
+
+Estás escuchando música y a la mitad del estribillo de *Smoke on the Water* sentís que alguien te agarra de atrás, como hace tu novio, pero sabés que no es tu novio, lo sentís en los huesos.
+
+La mano del desconocido (click-replace:"desconocido")[pajero] (click-replace:"pajero")[acosador] trata de agarrarte la concha, pero se choca con el pantalón del uniforme y no llega muy lejos.
+
+Vos te das vuelta y ves a alguien con una capucha que te sonríe y acerca la boca. Te das cuenta de que te quiere tranzar y te corrés, cerrás los ojos del miedo y los volvés a abrir.
+
+Ves la cara del tipo, ves tu paraguas. Podés [[reaccionar]] o [[quedarte quieta hasta que se vaya]].
+
+::reaccionar <685,1596>
+Le pegás con el paraguas, el golpe conecta cerca del ojo. Apretás y ves que el tipo sale corriendo.
+
+Le gritás, pero llueve tan fuerte que la lluvia tapa tus gritos.
+
+Estás empapada, el paraguas está roto, te faltan los auricularés. [[Caminás hacia la escuela]].
+
+::quedarte quieta hasta que se vaya <835,1596>
+El tipo te suelta, se va.
+
+Estás empapada, el paraguas, está sano, te faltan los auriculares. [[Caminás hacia la escuela]].
+
+::Caminás hacia la escuela <685,1746>
+Cuando entrás a la escuela, empapada hasta los huesos, escuchas que dos chicas le cuentan a la directora que un desconocido, el mismo que a vos, también las manoseó sin su consentimiento.
+
+Podés contarle a las autoridades sobre lo que pasó, podés quedarte callada, pero denuncies o no, nunca vas a saber lo que pasó con el tipo que te manoseó, que te acosó, para llevarse unos auriculares.
+Lo sé, porque es mi historia.
+
+Si [[hablás->laburo]] todos tus compañeros van a saber y te van a hacer jodas, te van a preguntar *si te violaron*, una profesora te va a preguntar en clase, adelante de todos, casi a los gritos, *si estás bien después de lo que te pasó*. Pero al menos vas a poder irte a casa y vas a tener ropa seca.
+
+Si [[callás->laburo]] vas a quedar como la gila que se empapó porque no sabe usar un paraguas. Nadie se va a enterar de lo que te pasó.
+
+::laburo <684,1896>
+Ya no sos adolescente, sos grande pero no tanto y tenés trabajo. Es difícil mantenerlo porque tu jefe te grita todos los días. Hoy vino y te dijo:
+
+(live:6s)[VOS QUE SOS MUJER, ROMPELE LAS BOLAS AL CLIENTE PARA QUE PRUEBE LO QUE HICISTE.(stop:)]
+
+(live:12s)[VISTE COMO SON LAS MUJERES, SON ROMPEBOLAS.(stop:)]
+
+(live:18s)[No dejó de repetirlo en todo el día. Llegaste llorando a casa y le contaste a una amiga.
+
+Ella te dijo que no estás sola y te pidió que la acompañes a una marcha. [[Decidiste renunciar y empezar a marchar->decidiste empezar a marchar]].(stop:)]
+
+::decidiste empezar a marchar <684,2046>
+En una de las marchas, una por el aborto legal, hay una mujer que canta. No para de cantar, ni de arengar a la gente. Ella sigue haciendo el aguante después de que se fueron todos, cuando canta se ve hermosa e imparable.
+
+Unos meses después aparece en las noticias porque la asesinaron, era Diana Sacayan.
+
+Podés [[alejarte del activismo->alejar]] o [[seguir marchando->marcha]].
+
+::alejar <684,2196>
+Temés por tu seguridad y estás cansada de sentir que remás en dulce de leche. Por ahí otras personas más valientes y temerarias logran cambiar las cosas.
+
+Además, estás cansada de discutir con tus amigos y familia sobre las cosas chotas que te pasan todos los días. Parece que no te creen o no entienden lo mal que la pasás con estas cosas.
+
+También te da un poco de miedo quedarte sin amigos o que te tilden de loca.
+
+Siempre podés [[volver a luchar->lucha]], sabés que tus compañeras te van a recibir con los brazos abiertos.
+
+::marcha <833,2196>
+Mientras marchás y cantás, ves que tus compañeras pintan las paredes.
+
+No sabés si [[pintar vos también para sacarte la bronca->pintadas]] o si [[alejarte un poco->alejar]] porque esto te incomoda.
+
+::lucha <688,2379>
+Esperás que algún día las cosas cambien y sean mejores que ahora.
+
+Sentís que nadie te escucha a menos que hagas quilombo y que cuando hacés quilombo te mienten y te dicen que te darían su apoyo si tan solo "hicieras las cosas como gente civilizada".
+
+Sentís que esta historia no llega a cubrir todas las cosas terribles que te pasan todos los días por ser mujer.
+
+Muy poca gente parece entender que solo pedimos que nos traten como personas, pero no estás sola. Yo te entiendo.
+
+Yo creo que si seguimos luchando por nuestros derechos, (link-repeat:"como hicieron nuestras antecesoras cuando obtuvieron el derecho al voto")[(open-url:"http://www.elmundo.es/la-aventura-de-la-historia/2015/12/18/5672b589ca474134438b4698.html")(replace: "[object Window]")[]], vamos a dejar un mundo mejor que el que encontramos.
+
+(link:"FIN")[(reload:)]
+
+::pintadas <862,2378>
+Marchás y por ahí pintás las paredes, por ahí hasta marchás en tetas. De repente, (text-style:"blur")[Sentís que los ojos te arden.] Están tirando gases lacrimogenos.
+
+Podés escuchar los consejos de tus compañeras y [[empezar a llevar un pañuelo->lucha]] remojado en vinagre sobre la cara o podés [[dejar de marchar->alejar]] para estar más segura.

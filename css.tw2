@@ -1,0 +1,33 @@
+::StoryCSS [stylesheet]
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+tw-passage{
+	font-family: 'Anton', sans-serif;
+}
+
+tw-passage .lang-select{
+	text-align: center;
+}
+
+tw-link{
+	color: #ff0000;
+}
+
+tw-link:hover{
+	color: #B21212;
+}
+
+tw-enchantment.link{
+	color: #FF7A19;
+}
+
+tw-enchantment.link:hover{
+	color: #FF3100;
+}
+
+tw-sidebar tw-icon.redo {
+	display: none;
+}
+tw-sidebar tw-icon.undo {
+	display: none;
+}
