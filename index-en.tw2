@@ -49,9 +49,9 @@ Summer has been over for a while and classes have begun. You're at the school's 
 
 "Adolescent comes from *adolecer*, suffering in Spanish" Is a phrase that you will hear until you have grown up and finish with school.
 
-You feel as if the girls from the video lived in a parallel universe, you can't see their pimples, their menstrual pains—the ones that tear you apart—don't show. You see the bra that's itching and feeling tight either.
+You feel as if the girls from the video lived in a parallel universe, you can't see their pimples, their menstrual pains—the ones that tear you apart—don't show. You don't see the bra that's itching and feeling tight either.
 
-Once the video is over girls get tampons and boys get condoms. You try to take a closer look at what the boys are carrying, you're wondering if you will get some of those too.(click-replace:"of those")[condoms], but no one offers you anything and you get pushed around. [[You leave the gym->salís del auditorio-en]].
+Once the video is over girls get tampons and boys get condoms. You try to take a closer look at what the boys are carrying, you're wondering if you will get some of those too(click-replace:"of those")[condoms], but no one offers you anything and you get pushed around. [[You leave the gym->salís del auditorio-en]].
 
 ::salís del auditorio-en <681,1016>
 Summer is back, it's raining. You're rushing to the hospital with your parents in their car, because someone in your family tried to have an abortion and it turned out wrong. She's 16.
@@ -78,21 +78,21 @@ You scream the first thing that comes to mind, as best as you can. You look to y
 
 The stranger either left or didn't open his mouth again, you don't dare to look.
 
-[[You keep walking in silence->paraguas-en]]
+[[You keep walking in silence->paraguas-en]].
 
 ::apurar el paso-en <834,1295>
 Neither of you dares to do anything, you try to reach an avenue as soon as possible.
 
-Eventually you bump into some neighbors and the stranger leaves you alone. Your neighbors don't say anything, neither do you and you [[keep walking->siguen caminando->paraguas-en]].
+Eventually you bump into some neighbors and the stranger leaves you alone. Your neighbors don't say anything, neither do you and you [[keep walking->paraguas-en]].
 
 ::paraguas-en <685,1446>
 You're in your last year of high school. It's raining buckets, but you aren't worried because you have a good umbrella with you.
 
 You're listening to music and in the mid of *Smoke on the Water* chorus you feel that someone is grabbing you from behind, just like your boyfriend does, but you know this isn't your boyfriend, you can feel it in your bones.
 
-The hand of the stranger (click-replace:"stranger")[jerk] (click-replace:"jerk")[harasser]tries to grab your pussy, but he stumbles with the pants of your uniform and doesn't get too far.
+The hand of the stranger (click-replace:"stranger")[jerk](click-replace:"jerk")[harasser]tries to grab your pussy, but he stumbles with the pants of your uniform and doesn't get too far.
 
-You turn around and see someone with a hoodie who smiles and gets his mouth closer to yours. You realize that he's trying to kiss you, you close your eyes freightened and pull back, you open them back.
+You turn around and see someone with a hoodie who smiles and gets his mouth closer to yours. You realize that he's trying to kiss you, you close your eyes freightened and pull back, then you open your eyes back.
 
 You see the face of this guy, you look at your umbrella. You can [[react->reaccionar-en]] or [[stay put until he goes away->quedarte quieta hasta que se vaya-en]].
 
@@ -130,11 +130,11 @@ You're not an adolescent anymore, you're a grown up but not by much and you have
 She told you that you were not alone and asked you to go to a march with her. [[You decided to quit and start protesting->decidiste empezar a marchar-en]].(stop:)]
 
 ::decidiste empezar a marchar-en <684,2045>
-In one of the protests, the one for abortion rights, there's a woman singing. She never stops singing or encouraging people. She keeps holding up even after everyone else left, when she sings she looks gorgeous and unstoppable.
+In one of the protests, the one for abortion rights, there's a woman singing. She never stops singing or encouraging people. She keeps holding up even after everyone else has left, when she sings she looks gorgeous and unstoppable.
 
-A couple of months later she's one the news because she has been murdered, she was Diana Sacayan.
+A couple of months later she's on the news because she has been murdered, she was Diana Sacayan.
 
-You can [step aside from activism->alejar]] or [[keep protesting->marcha-en]].
+You can [[step aside from activism->alejar]] or [[keep protesting->marcha-en]].
 
 ::alejar-en <684,2196>
 You fear for your safety and you're tired of feeling like you're herding cats. Maybe somebody else who is braver or more reckless can change things.
@@ -153,7 +153,7 @@ You're unsure whether to [[make some graffiti as well to release some tension->p
 ::lucha-en <689,2379>
 You hope that someday things will change for the better.
 
-You feel that no one listens to you unless you make a mess and that when you finally do, you get lied to and told that you would get support if only "you behaved like civilized people".
+You feel that no one listens to you unless you make a mess and that when you finally do, you get lied to and told that you would have gotten support if only "you behaved like civilized people".
 
 You feel that this story doesn't even scratch the surface of all the terrible things that happen to you daily for being a woman.
 
@@ -161,12 +161,13 @@ Very few people seem to understand that we just want to be treated like human be
 
 I believe that if we keep fighting for our rights, (link-repeat:"like those who got the right to vote did before us")[(open-url:"http://www.bbc.com/news/magazine-34425615")(replace: "[object Window]")[]], the world will be a better place than when we started.
 
-(link:"THE END")[(reload:)]
+<hr>
+*Florencia Rumpel Rodriguez, October 2016. - Translated to English on March 2017* 
 
 ::pintadas-en <862,2378>
 You keep protesting and maybe you end up spraying some walls, maybe you end up marching while showing your tits. Suddenly, (text-style:"blur")[You feel that your eyes are burning.] They're throwing tear gas.
 
-You can heed the advice of your fellow activists and[[begin wearing a kerchief->lucha-en]] soaked in vinegar over your mouth or you can [[stop marching->alejar-en]] to feel safer.
+You can heed the advice of your fellow activists and [[begin wearing a kerchief->lucha-en]] soaked in vinegar over your mouth or you can [[stop marching->alejar-en]] to feel safer.
 
 ::Header [header] <824,313>
 <small>{(if: (saved-games:) contains "Slot A")[(link: "· Load ")[(load-game:"Slot A")]]} {(link:"· Save")[(if:(save-game:"Slot A"))[· Saved](else: )[Error]]}</small>
